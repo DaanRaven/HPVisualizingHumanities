@@ -1,0 +1,745 @@
+Source, Target, Weight
+Harry Potter, Ron Weasley, 292
+Harry Potter, Prof. Sprout, 3
+Harry Potter, Percy Weasley, 15
+Harry Potter, Bloody Baron, 3
+Harry Potter, Vincent Crabbe, 15
+Harry Potter, Minerva McGonagoll , 42
+Harry Potter, Firenze, 13
+Harry Potter, Bane, 5
+Harry Potter, Marcus Flint, 8
+Harry Potter, Irma Pince, 2
+Harry Potter, James Potter, 6
+Harry Potter, Peeves, 7
+Harry Potter, Fat Friar, 1
+Harry Potter, Dean Thomas, 6
+Harry Potter, Lavender Brown, 2
+Harry Potter, Griphook, 5
+Harry Potter, Seamus Finnigan, 12
+Harry Potter, Perenelle Flamel, 1
+Harry Potter, Dudley Dursley, 75
+Harry Potter, Gregory Goyle, 14
+Harry Potter, Ginny Weasley, 2
+Harry Potter, Prof. Dumbledore, 66
+Harry Potter, Hannah Abbott, 1
+Harry Potter, Angelina Johnson, 1
+Harry Potter, Lee Jordan, 5
+Harry Potter, Molly Weasley, 3
+Harry Potter, Fred Weasley, 29
+Harry Potter, Millicent Bulstrode, 2
+Harry Potter, Vernon Dursley, 72
+Harry Potter, Lisa Turpin, 2
+Harry Potter, Neville Longbottom, 56
+Harry Potter, Dedalus Diggle, 3
+Harry Potter, Justin Finch-Fletchley, 1
+Harry Potter, Madame Hooch, 7
+Harry Potter, Doris Crockford, 6
+Harry Potter, Madame Malkin, 9
+Harry Potter, terence, 1
+Harry Potter, Arthur Weasley, 2
+Harry Potter, George Weasley, 17
+Harry Potter, Oliver Wood, 31
+Harry Potter, Parvati Patil , 2
+Harry Potter, Prof. Quirrell, 66
+Harry Potter, Madame Pomfrey, 7
+Harry Potter, Blaise Zabini, 1
+Harry Potter, filius, 8
+Harry Potter, Ronan, 6
+Harry Potter, Arabella Figg, 7
+Harry Potter, Lord Voldemort, 29
+Harry Potter, Hermione Granger, 182
+Harry Potter, Piers Polkiss, 9
+Harry Potter, Hedwig, 9
+Harry Potter, Petunia Dursley, 35
+Harry Potter, Draco Malfoy, 66
+Harry Potter, Ollivander, 17
+Harry Potter, Lily Potter, 6
+Harry Potter, Fat Lady, 4
+Harry Potter, Filch, 25
+Harry Potter, Prof. Snape, 94
+Harry Potter, Susan Bones, 1
+Harry Potter, Charlie Weasley, 11
+Hermione Granger, Ron Weasley, 148
+Hermione Granger, Percy Weasley, 2
+Hermione Granger, Bloody Baron, 2
+Hermione Granger, Minerva McGonagoll , 13
+Hermione Granger, Bane, 2
+Hermione Granger, Marcus Flint, 1
+Hermione Granger, Irma Pince, 2
+Hermione Granger, Peeves, 1
+Hermione Granger, Harry Potter, 165
+Hermione Granger, Dean Thomas, 2
+Hermione Granger, Lavender Brown, 1
+Hermione Granger, Seamus Finnigan, 3
+Hermione Granger, Perenelle Flamel, 1
+Hermione Granger, Ginny Weasley, 1
+Hermione Granger, Prof. Dumbledore, 7
+Hermione Granger, Vernon Dursley, 1
+Hermione Granger, Neville Longbottom, 33
+Hermione Granger, Nicolas Flamel, 8
+Hermione Granger, Madame Hooch, 2
+Hermione Granger, George Weasley, 1
+Hermione Granger, Parvati Patil , 2
+Hermione Granger, Prof. Quirrell, 7
+Hermione Granger, Madame Pomfrey, 3
+Hermione Granger, filius, 2
+Hermione Granger, elfric, 1
+Hermione Granger, Ronan, 6
+Hermione Granger, Lord Voldemort, 4
+Hermione Granger, Draco Malfoy, 12
+Hermione Granger, Fat Lady, 5
+Hermione Granger, Filch, 3
+Hermione Granger, Prof. Snape, 32
+Hermione Granger, Charlie Weasley, 3
+Ron Weasley, Prof. Sprout, 1
+Ron Weasley, Percy Weasley, 8
+Ron Weasley, Bloody Baron, 2
+Ron Weasley, Vincent Crabbe, 4
+Ron Weasley, Minerva McGonagoll , 9
+Ron Weasley, Marcus Flint, 2
+Ron Weasley, Irma Pince, 2
+Ron Weasley, Peeves, 3
+Ron Weasley, Harry Potter, 269
+Ron Weasley, Dean Thomas, 8
+Ron Weasley, Lavender Brown, 2
+Ron Weasley, Seamus Finnigan, 4
+Ron Weasley, Perenelle Flamel, 1
+Ron Weasley, Dudley Dursley, 2
+Ron Weasley, Gregory Goyle, 6
+Ron Weasley, Ginny Weasley, 2
+Ron Weasley, Prof. Dumbledore, 13
+Ron Weasley, Lee Jordan, 3
+Ron Weasley, Molly Weasley, 1
+Ron Weasley, Fred Weasley, 8
+Ron Weasley, Millicent Bulstrode, 1
+Ron Weasley, Lisa Turpin, 2
+Ron Weasley, Neville Longbottom, 25
+Ron Weasley, George Weasley, 12
+Ron Weasley, Oliver Wood, 2
+Ron Weasley, Parvati Patil , 1
+Ron Weasley, Prof. Quirrell, 6
+Ron Weasley, Madame Pomfrey, 2
+Ron Weasley, Blaise Zabini, 1
+Ron Weasley, filius, 4
+Ron Weasley, elfric, 1
+Ron Weasley, Bill Weasley, 2
+Ron Weasley, Lord Voldemort, 11
+Ron Weasley, Hermione Granger, 144
+Ron Weasley, Hedwig, 4
+Ron Weasley, Petunia Dursley, 1
+Ron Weasley, Draco Malfoy, 33
+Ron Weasley, Nearly Headless Nick, 1
+Ron Weasley, Fat Lady, 1
+Ron Weasley, Filch, 4
+Ron Weasley, Prof. Snape, 41
+Vernon Dursley, Harry Potter, 66
+Vernon Dursley, Dudley Dursley, 37
+Vernon Dursley, Prof. Dumbledore, 1
+Vernon Dursley, Molly Weasley, 2
+Vernon Dursley, Marge Dursley, 6
+Vernon Dursley, Arabella Figg, 2
+Vernon Dursley, Hermione Granger, 1
+Vernon Dursley, Piers Polkiss, 3
+Vernon Dursley, Rubeus Hagrid, 7
+Vernon Dursley, Petunia Dursley, 29
+Petunia Dursley, Ron Weasley, 1
+Petunia Dursley, Harry Potter, 31
+Petunia Dursley, Dudley Dursley, 28
+Petunia Dursley, Prof. Dumbledore, 1
+Petunia Dursley, Vernon Dursley, 27
+Petunia Dursley, Marge Dursley, 2
+Petunia Dursley, Arabella Figg, 2
+Petunia Dursley, Piers Polkiss, 2
+Petunia Dursley, Rubeus Hagrid, 2
+Petunia Dursley, Hedwig, 1
+Dudley Dursley, Ron Weasley, 1
+Dudley Dursley, Harry Potter, 68
+Dudley Dursley, Molly Weasley, 1
+Dudley Dursley, Justin Finch-Fletchley, 1
+Dudley Dursley, Madame Malkin, 1
+Dudley Dursley, vindictus, 1
+Dudley Dursley, Marge Dursley, 3
+Dudley Dursley, Arabella Figg, 2
+Dudley Dursley, Piers Polkiss, 15
+Dudley Dursley, Rubeus Hagrid, 4
+Dudley Dursley, Petunia Dursley, 31
+Dudley Dursley, Draco Malfoy, 1
+Lily Potter, Minerva McGonagoll , 1
+Lily Potter, James Potter, 5
+Lily Potter, Harry Potter, 4
+Lily Potter, Prof. Dumbledore, 2
+Lily Potter, Lord Voldemort, 1
+Lily Potter, Rubeus Hagrid, 1
+James Potter, Minerva McGonagoll , 2
+James Potter, Harry Potter, 4
+James Potter, Prof. Dumbledore, 2
+James Potter, Rubeus Hagrid, 1
+James Potter, Lily Potter, 5
+Lord Voldemort, Minerva McGonagoll , 2
+Lord Voldemort, Firenze, 3
+Lord Voldemort, Bane, 3
+Lord Voldemort, Harry Potter, 28
+Lord Voldemort, Prof. Dumbledore, 8
+Lord Voldemort, Fred Weasley, 1
+Lord Voldemort, Hermione Granger, 4
+Lord Voldemort, Rubeus Hagrid, 5
+Lord Voldemort, Draco Malfoy, 1
+Lord Voldemort, Lily Potter, 1
+Lord Voldemort, Prof. Snape, 7
+Prof. Dumbledore, Ron Weasley, 14
+Prof. Dumbledore, Percy Weasley, 1
+Prof. Dumbledore, Cornelius Fudge, 2
+Prof. Dumbledore, Minerva McGonagoll , 21
+Prof. Dumbledore, Firenze, 2
+Prof. Dumbledore, Bane, 2
+Prof. Dumbledore, James Potter, 3
+Prof. Dumbledore, Harry Potter, 75
+Prof. Dumbledore, Grindelwald, 2
+Prof. Dumbledore, Griphook, 1
+Prof. Dumbledore, Fred Weasley, 2
+Prof. Dumbledore, Vernon Dursley, 1
+Prof. Dumbledore, Neville Longbottom, 2
+Prof. Dumbledore, Dedalus Diggle, 1
+Prof. Dumbledore, Nicolas Flamel, 5
+Prof. Dumbledore, Oliver Wood, 1
+Prof. Dumbledore, Prof. Quirrell, 7
+Prof. Dumbledore, Madame Pomfrey, 2
+Prof. Dumbledore, filius, 1
+Prof. Dumbledore, Lord Voldemort, 7
+Prof. Dumbledore, Hermione Granger, 8
+Prof. Dumbledore, Rubeus Hagrid, 23
+Prof. Dumbledore, Hedwig, 2
+Prof. Dumbledore, Petunia Dursley, 1
+Prof. Dumbledore, Draco Malfoy, 1
+Prof. Dumbledore, Lily Potter, 3
+Prof. Dumbledore, Sirius Black, 2
+Prof. Dumbledore, Filch, 1
+Prof. Dumbledore, Prof. Snape, 9
+Minerva McGonagoll , Ron Weasley, 9
+Minerva McGonagoll , Prof. Sprout, 2
+Minerva McGonagoll , Percy Weasley, 1
+Minerva McGonagoll , Vincent Crabbe, 1
+Minerva McGonagoll , Alicia Spinnet, 1
+Minerva McGonagoll , James Potter, 1
+Minerva McGonagoll , Peeves, 2
+Minerva McGonagoll , Harry Potter, 34
+Minerva McGonagoll , Gregory Goyle, 1
+Minerva McGonagoll , Lee Jordan, 2
+Minerva McGonagoll , Neville Longbottom, 3
+Minerva McGonagoll , Oliver Wood, 6
+Minerva McGonagoll , Prof. Quirrell, 4
+Minerva McGonagoll , Madame Pomfrey, 1
+Minerva McGonagoll , Blaise Zabini, 1
+Minerva McGonagoll , filius, 4
+Minerva McGonagoll , Lord Voldemort, 2
+Minerva McGonagoll , Rubeus Hagrid, 9
+Minerva McGonagoll , Emetic Switch, 1
+Minerva McGonagoll , Draco Malfoy, 4
+Minerva McGonagoll , Lily Potter, 1
+Minerva McGonagoll , Sirius Black, 1
+Minerva McGonagoll , Filch, 2
+Minerva McGonagoll , Prof. Snape, 9
+Minerva McGonagoll , Charlie Weasley, 1
+Dedalus Diggle, Harry Potter, 7
+Dedalus Diggle, Prof. Dumbledore, 2
+Madame Pomfrey, Ron Weasley, 2
+Madame Pomfrey, Minerva McGonagoll , 1
+Madame Pomfrey, Harry Potter, 6
+Madame Pomfrey, Prof. Dumbledore, 2
+Madame Pomfrey, Neville Longbottom, 1
+Madame Pomfrey, Prof. Quirrell, 1
+Madame Pomfrey, Hermione Granger, 3
+Madame Pomfrey, Draco Malfoy, 1
+Rubeus Hagrid, Percy Weasley, 1
+Rubeus Hagrid, Cornelius Fudge, 1
+Rubeus Hagrid, Minerva McGonagoll , 13
+Rubeus Hagrid, Firenze, 3
+Rubeus Hagrid, Bane, 4
+Rubeus Hagrid, Marcus Flint, 2
+Rubeus Hagrid, James Potter, 1
+Rubeus Hagrid, Peeves, 1
+Rubeus Hagrid, Harry Potter, 195
+Rubeus Hagrid, Dean Thomas, 1
+Rubeus Hagrid, Griphook, 4
+Rubeus Hagrid, Seamus Finnigan, 1
+Rubeus Hagrid, Dudley Dursley, 4
+Rubeus Hagrid, Prof. Dumbledore, 26
+Rubeus Hagrid, Fred Weasley, 2
+Rubeus Hagrid, Vernon Dursley, 9
+Rubeus Hagrid, Neville Longbottom, 9
+Rubeus Hagrid, Nicolas Flamel, 3
+Rubeus Hagrid, Doris Crockford, 1
+Rubeus Hagrid, Madame Malkin, 2
+Rubeus Hagrid, George Weasley, 1
+Rubeus Hagrid, Prof. Quirrell, 4
+Rubeus Hagrid, filius, 2
+Rubeus Hagrid, Ronan, 12
+Rubeus Hagrid, Lord Voldemort, 5
+Rubeus Hagrid, Hermione Granger, 32
+Rubeus Hagrid, Hedwig, 3
+Rubeus Hagrid, Petunia Dursley, 2
+Rubeus Hagrid, Draco Malfoy, 12
+Rubeus Hagrid, Ollivander, 5
+Rubeus Hagrid, Lily Potter, 1
+Rubeus Hagrid, Sirius Black, 1
+Rubeus Hagrid, Filch, 4
+Rubeus Hagrid, Charlie Weasley, 6
+Sirius Black, Minerva McGonagoll , 1
+Sirius Black, Prof. Dumbledore, 2
+Sirius Black, Rubeus Hagrid, 1
+Marge Dursley, Dudley Dursley, 2
+Marge Dursley, Vernon Dursley, 4
+Marge Dursley, Petunia Dursley, 2
+Arabella Figg, Harry Potter, 7
+Arabella Figg, Dudley Dursley, 3
+Arabella Figg, Vernon Dursley, 2
+Arabella Figg, Piers Polkiss, 1
+Arabella Figg, Petunia Dursley, 3
+Piers Polkiss, Harry Potter, 8
+Piers Polkiss, Dudley Dursley, 15
+Piers Polkiss, Vernon Dursley, 5
+Piers Polkiss, Arabella Figg, 1
+Piers Polkiss, Petunia Dursley, 3
+Cornelius Fudge, Ron Weasley, 1
+Cornelius Fudge, Cornelius Fudge, 2
+Cornelius Fudge, Harry Potter, 2
+Cornelius Fudge, Prof. Dumbledore, 2
+Cornelius Fudge, Molly Weasley, 1
+Cornelius Fudge, Rubeus Hagrid, 1
+Miranda Goshawk, Bathilda Bagshot, 2
+Miranda Goshawk, Adalbert Waffling Waffling, 2
+Bathilda Bagshot, Miranda Goshawk, 2
+Bathilda Bagshot, Emetic Switch, 2
+Bathilda Bagshot, Adalbert Waffling Waffling, 2
+Adalbert Waffling, Miranda Goshawk, 2
+Adalbert Waffling, Bathilda Bagshot, 2
+Adalbert Waffling, Emetic Switch, 2
+Emetic Switch, Bathilda Bagshot, 1
+Emetic Switch, Phyllida Spore, 2
+Emetic Switch, Adalbert Waffling Waffling, 1
+Phyllida Spore, arsenus, 2
+Phyllida Spore, Emetic Switch, 2
+Arsenus Jigger, Phyllida Spore, 1
+Arsenus Jigger, Newt Scamander, 1
+Newt Scamander, arsenus, 1
+Newt Scamander, Phyllida Spore, 1
+Newt Scamander, Quentin Trimble, 1
+Quentin Trimble, Newt Scamander, 1
+Doris Crockford, Harry Potter, 3
+Doris Crockford, Rubeus Hagrid, 1
+Prof. Quirrell, Ron Weasley, 8
+Prof. Quirrell, Percy Weasley, 2
+Prof. Quirrell, Minerva McGonagoll , 4
+Prof. Quirrell, Harry Potter, 66
+Prof. Quirrell, Seamus Finnigan, 2
+Prof. Quirrell, Prof. Dumbledore, 7
+Prof. Quirrell, Fred Weasley, 1
+Prof. Quirrell, Nicolas Flamel, 1
+Prof. Quirrell, Madame Pomfrey, 1
+Prof. Quirrell, filius, 1
+Prof. Quirrell, Lord Voldemort, 11
+Prof. Quirrell, Hermione Granger, 7
+Prof. Quirrell, Rubeus Hagrid, 5
+Prof. Quirrell, Ollivander, 1
+Prof. Quirrell, Filch, 1
+Prof. Quirrell, Prof. Snape, 26
+Griphook, Harry Potter, 6
+Griphook, Prof. Dumbledore, 1
+Griphook, Rubeus Hagrid, 5
+Madame Malkin, Harry Potter, 7
+Madame Malkin, Dudley Dursley, 1
+Madame Malkin, Rubeus Hagrid, 2
+Draco Malfoy, Ron Weasley, 13
+Draco Malfoy, Vincent Crabbe, 11
+Draco Malfoy, Minerva McGonagoll , 2
+Draco Malfoy, Harry Potter, 27
+Draco Malfoy, Dudley Dursley, 1
+Draco Malfoy, Gregory Goyle, 13
+Draco Malfoy, Fred Weasley, 1
+Draco Malfoy, Neville Longbottom, 12
+Draco Malfoy, Arthur Weasley, 2
+Draco Malfoy, George Weasley, 1
+Draco Malfoy, Parvati Patil , 2
+Draco Malfoy, Pansy Parkinson, 1
+Draco Malfoy, Hermione Granger, 4
+Draco Malfoy, Rubeus Hagrid, 4
+Draco Malfoy, Filch, 2
+Draco Malfoy, Prof. Snape, 4
+Hedwig, Ron Weasley, 4
+Hedwig, Harry Potter, 8
+Hedwig, Prof. Dumbledore, 2
+Hedwig, Rubeus Hagrid, 3
+Hedwig, Petunia Dursley, 2
+Hedwig, Prof. Snape, 1
+Hedwig, Charlie Weasley, 1
+Ollivander, Harry Potter, 13
+Ollivander, Prof. Quirrell, 1
+Ollivander, Rubeus Hagrid, 4
+Ginny Weasley, Ron Weasley, 2
+Ginny Weasley, Percy Weasley, 1
+Ginny Weasley, Harry Potter, 2
+Ginny Weasley, Molly Weasley, 1
+Ginny Weasley, Fred Weasley, 1
+Ginny Weasley, George Weasley, 1
+Ginny Weasley, Hermione Granger, 1
+Molly Weasley, Ron Weasley, 1
+Molly Weasley, Harry Potter, 3
+Molly Weasley, Dudley Dursley, 1
+Molly Weasley, Ginny Weasley, 1
+Molly Weasley, Vernon Dursley, 2
+Molly Weasley, Charlie Weasley, 1
+Percy Weasley, Ron Weasley, 8
+Percy Weasley, Bloody Baron, 1
+Percy Weasley, Minerva McGonagoll , 1
+Percy Weasley, Peeves, 4
+Percy Weasley, Harry Potter, 15
+Percy Weasley, Ginny Weasley, 1
+Percy Weasley, Prof. Dumbledore, 2
+Percy Weasley, Fred Weasley, 3
+Percy Weasley, Neville Longbottom, 1
+Percy Weasley, George Weasley, 3
+Percy Weasley, Prof. Quirrell, 1
+Percy Weasley, Blaise Zabini, 1
+Percy Weasley, filius, 1
+Percy Weasley, Bill Weasley, 2
+Percy Weasley, Hermione Granger, 2
+Percy Weasley, Rubeus Hagrid, 1
+Percy Weasley, Draco Malfoy, 1
+Percy Weasley, Prof. Snape, 1
+Percy Weasley, Charlie Weasley, 2
+Fred Weasley, Ron Weasley, 6
+Fred Weasley, Percy Weasley, 3
+Fred Weasley, Gregory Goyle, 1
+Fred Weasley, Ginny Weasley, 1
+Fred Weasley, Prof. Dumbledore, 2
+Fred Weasley, Angelina Johnson, 2
+Fred Weasley, George Weasley, 21
+Fred Weasley, Oliver Wood, 3
+Fred Weasley, Bill Weasley, 1
+Fred Weasley, Lord Voldemort, 1
+Fred Weasley, Rubeus Hagrid, 2
+Fred Weasley, Draco Malfoy, 1
+Fred Weasley, Prof. Snape, 2
+Fred Weasley, Charlie Weasley, 2
+George Weasley, Ron Weasley, 8
+George Weasley, Percy Weasley, 3
+George Weasley, Vincent Crabbe, 1
+George Weasley, Harry Potter, 13
+George Weasley, Gregory Goyle, 1
+George Weasley, Ginny Weasley, 1
+George Weasley, Angelina Johnson, 1
+George Weasley, Oliver Wood, 4
+George Weasley, Bill Weasley, 1
+George Weasley, Hermione Granger, 1
+George Weasley, Rubeus Hagrid, 1
+George Weasley, Draco Malfoy, 1
+George Weasley, Prof. Snape, 3
+George Weasley, Charlie Weasley, 1
+Neville Longbottom, Ron Weasley, 29
+Neville Longbottom, Percy Weasley, 1
+Neville Longbottom, Bloody Baron, 1
+Neville Longbottom, Vincent Crabbe, 2
+Neville Longbottom, Minerva McGonagoll , 5
+Neville Longbottom, Peeves, 1
+Neville Longbottom, Harry Potter, 59
+Neville Longbottom, Dean Thomas, 3
+Neville Longbottom, Seamus Finnigan, 5
+Neville Longbottom, Gregory Goyle, 2
+Neville Longbottom, Prof. Dumbledore, 2
+Neville Longbottom, Madame Hooch, 3
+Neville Longbottom, Parvati Patil , 1
+Neville Longbottom, Madame Pomfrey, 2
+Neville Longbottom, filius, 1
+Neville Longbottom, Pansy Parkinson, 1
+Neville Longbottom, Hermione Granger, 33
+Neville Longbottom, Draco Malfoy, 21
+Neville Longbottom, Fat Lady, 2
+Neville Longbottom, Filch, 3
+Neville Longbottom, Prof. Snape, 4
+Lee Jordan, Ron Weasley, 4
+Lee Jordan, Minerva McGonagoll , 4
+Lee Jordan, Alicia Spinnet, 1
+Lee Jordan, Marcus Flint, 6
+Lee Jordan, Katie Bell, 2
+Lee Jordan, Dean Thomas, 2
+Lee Jordan, Angelina Johnson, 1
+Lee Jordan, Adrian Pucey, 2
+Lee Jordan, Oliver Wood, 2
+Bill Weasley, Ron Weasley, 2
+Bill Weasley, Percy Weasley, 3
+Bill Weasley, Harry Potter, 2
+Bill Weasley, Fred Weasley, 1
+Bill Weasley, Vernon Dursley, 2
+Bill Weasley, George Weasley, 1
+Bill Weasley, Marge Dursley, 2
+Bill Weasley, Petunia Dursley, 1
+Bill Weasley, Charlie Weasley, 4
+Charlie Weasley, Percy Weasley, 3
+Charlie Weasley, Minerva McGonagoll , 1
+Charlie Weasley, Harry Potter, 11
+Charlie Weasley, Molly Weasley, 1
+Charlie Weasley, Fred Weasley, 2
+Charlie Weasley, George Weasley, 1
+Charlie Weasley, Oliver Wood, 2
+Charlie Weasley, Bill Weasley, 4
+Charlie Weasley, Hermione Granger, 3
+Charlie Weasley, Rubeus Hagrid, 3
+Charlie Weasley, Hedwig, 1
+Charlie Weasley, Draco Malfoy, 1
+Grindelwald, Prof. Dumbledore, 2
+Nicolas Flamel, Ron Weasley, 13
+Nicolas Flamel, Irma Pince, 1
+Nicolas Flamel, Harry Potter, 19
+Nicolas Flamel, Perenelle Flamel, 1
+Nicolas Flamel, Prof. Dumbledore, 14
+Nicolas Flamel, Prof. Quirrell, 1
+Nicolas Flamel, Hermione Granger, 12
+Nicolas Flamel, Rubeus Hagrid, 6
+Nicolas Flamel, Filch, 2
+Nicolas Flamel, Prof. Snape, 2
+Vincent Crabbe, Ron Weasley, 4
+Vincent Crabbe, Minerva McGonagoll , 1
+Vincent Crabbe, Harry Potter, 12
+Vincent Crabbe, Fred Weasley, 1
+Vincent Crabbe, Neville Longbottom, 2
+Vincent Crabbe, Arthur Weasley, 1
+Vincent Crabbe, George Weasley, 1
+Vincent Crabbe, Draco Malfoy, 16
+Vincent Crabbe, Prof. Snape, 2
+Gregory Goyle, Ron Weasley, 7
+Gregory Goyle, Minerva McGonagoll , 1
+Gregory Goyle, Harry Potter, 11
+Gregory Goyle, Neville Longbottom, 2
+Gregory Goyle, Arthur Weasley, 1
+Gregory Goyle, Pansy Parkinson, 1
+Gregory Goyle, Draco Malfoy, 16
+Gregory Goyle, Prof. Snape, 2
+Fat Friar, Harry Potter, 1
+Fat Friar, Hannah Abbott, 1
+Fat Friar, Susan Bones, 1
+Peeves, Ron Weasley, 4
+Peeves, Percy Weasley, 5
+Peeves, Bloody Baron, 3
+Peeves, Minerva McGonagoll , 2
+Peeves, Harry Potter, 8
+Peeves, Neville Longbottom, 1
+Peeves, Hermione Granger, 1
+Peeves, Rubeus Hagrid, 1
+Peeves, Nearly Headless Nick, 1
+Peeves, Filch, 9
+Hannah Abbott, Harry Potter, 1
+Hannah Abbott, Fat Friar, 1
+Hannah Abbott, Terry Boot, 1
+Hannah Abbott, Susan Bones, 1
+Susan Bones, Harry Potter, 1
+Susan Bones, Fat Friar, 2
+Susan Bones, Hannah Abbott, 2
+Susan Bones, Terry Boot, 2
+Terry Boot, Lavender Brown, 1
+Terry Boot, Mandy Brocklehurst, 1
+Terry Boot, Hannah Abbott, 1
+Terry Boot, Susan Bones, 1
+Mandy Brocklehurst, Lavender Brown, 1
+Mandy Brocklehurst, Terry Boot, 1
+Lavender Brown, Ron Weasley, 1
+Lavender Brown, Harry Potter, 2
+Lavender Brown, Mandy Brocklehurst, 1
+Lavender Brown, Parvati Patil , 1
+Lavender Brown, Hermione Granger, 1
+Lavender Brown, Terry Boot, 1
+Millicent Bulstrode, Ron Weasley, 1
+Millicent Bulstrode, Harry Potter, 1
+Justin Finch-Fletchley, Harry Potter, 1
+Justin Finch-Fletchley, Dudley Dursley, 1
+Seamus Finnigan, Ron Weasley, 4
+Seamus Finnigan, Marcus Flint, 1
+Seamus Finnigan, Harry Potter, 13
+Seamus Finnigan, Dean Thomas, 2
+Seamus Finnigan, Neville Longbottom, 5
+Seamus Finnigan, Prof. Quirrell, 1
+Seamus Finnigan, filius, 1
+Seamus Finnigan, Hermione Granger, 3
+Seamus Finnigan, Rubeus Hagrid, 1
+Seamus Finnigan, Nearly Headless Nick, 1
+Seamus Finnigan, Prof. Snape, 3
+Macdougal, Draco Malfoy, 1
+Pansy Parkinson, Gregory Goyle, 1
+Pansy Parkinson, Neville Longbottom, 1
+Pansy Parkinson, Parvati Patil , 1
+Pansy Parkinson, Draco Malfoy, 1
+Parvati Patil, Ron Weasley, 1
+Parvati Patil, Harry Potter, 2
+Parvati Patil, Lavender Brown, 1
+Parvati Patil, Neville Longbottom, 1
+Parvati Patil, Pansy Parkinson, 2
+Parvati Patil, Hermione Granger, 2
+Parvati Patil, Draco Malfoy, 2
+Sally-Ann Perks, Harry Potter, 1
+Sally-Ann Perks, Pansy Parkinson, 1
+Dean Thomas, Marcus Flint, 2
+Dean Thomas, Harry Potter, 6
+Dean Thomas, Seamus Finnigan, 2
+Dean Thomas, Lee Jordan, 1
+Dean Thomas, Lisa Turpin, 1
+Dean Thomas, Neville Longbottom, 3
+Dean Thomas, Hermione Granger, 2
+Dean Thomas, Rubeus Hagrid, 2
+Lisa Turpin, Ron Weasley, 1
+Lisa Turpin, Harry Potter, 1
+Lisa Turpin, Dean Thomas, 1
+Blaise Zabini, Ron Weasley, 1
+Blaise Zabini, Percy Weasley, 1
+Blaise Zabini, Minerva McGonagoll , 1
+Blaise Zabini, Harry Potter, 1
+Nearly Headless Nick, Ron Weasley, 1
+Nearly Headless Nick, Peeves, 1
+Nearly Headless Nick, Seamus Finnigan, 1
+Bloody Baron, Ron Weasley, 3
+Bloody Baron, Percy Weasley, 2
+Bloody Baron, Peeves, 4
+Bloody Baron, Harry Potter, 4
+Bloody Baron, Neville Longbottom, 1
+Bloody Baron, Hermione Granger, 2
+Prof. Snape, Ron Weasley, 42
+Prof. Snape, Percy Weasley, 1
+Prof. Snape, Vincent Crabbe, 2
+Prof. Snape, Harry Potter, 177
+Prof. Snape, Seamus Finnigan, 2
+Prof. Snape, Gregory Goyle, 2
+Prof. Snape, Prof. Dumbledore, 11
+Prof. Snape, Fred Weasley, 3
+Prof. Snape, Neville Longbottom, 4
+Prof. Snape, Nicolas Flamel, 2
+Prof. Snape, George Weasley, 4
+Prof. Snape, Oliver Wood, 1
+Prof. Snape, Prof. Quirrell, 27
+Prof. Snape, filius, 3
+Prof. Snape, Lord Voldemort, 6
+Prof. Snape, Hermione Granger, 35
+Prof. Snape, Rubeus Hagrid, 19
+Prof. Snape, Hedwig, 1
+Prof. Snape, Fat Lady, 2
+Prof. Snape, Filch, 8
+Filch, Ron Weasley, 5
+Filch, Minerva McGonagoll , 2
+Filch, Peeves, 7
+Filch, Harry Potter, 28
+Filch, Prof. Dumbledore, 1
+Filch, Neville Longbottom, 4
+Filch, Nicolas Flamel, 1
+Filch, Prof. Quirrell, 1
+Filch, Hermione Granger, 3
+Filch, Rubeus Hagrid, 4
+Filch, Draco Malfoy, 4
+Filch, Prof. Snape, 6
+Madame Hooch, Marcus Flint, 1
+Madame Hooch, Harry Potter, 5
+Madame Hooch, Neville Longbottom, 3
+Madame Hooch, Hermione Granger, 1
+Madame Hooch, Draco Malfoy, 1
+Fat Lady, Ron Weasley, 1
+Fat Lady, Harry Potter, 4
+Fat Lady, Neville Longbottom, 1
+Fat Lady, Hermione Granger, 4
+Fat Lady, Prof. Snape, 1
+Mrs. Norris, Ron Weasley, 5
+Mrs. Norris, Peeves, 1
+Mrs. Norris, Harry Potter, 8
+Mrs. Norris, Neville Longbottom, 2
+Mrs. Norris, Prof. Quirrell, 1
+Mrs. Norris, Rubeus Hagrid, 1
+Mrs. Norris, Filch, 5
+Mrs. Norris, Prof. Snape, 1
+Prof. Sprout, Minerva McGonagoll , 2
+Prof. Sprout, Harry Potter, 2
+Prof. Sprout, filius, 2
+Prof. Binns, Harry Potter, 1
+Prof. Flitwick, Ron Weasley, 4
+Prof. Flitwick, Prof. Sprout, 2
+Prof. Flitwick, Percy Weasley, 1
+Prof. Flitwick, Minerva McGonagoll , 4
+Prof. Flitwick, Harry Potter, 6
+Prof. Flitwick, Seamus Finnigan, 1
+Prof. Flitwick, Neville Longbottom, 1
+Prof. Flitwick, Oliver Wood, 1
+Prof. Flitwick, uric, 1
+Prof. Flitwick, Prof. Quirrell, 1
+Prof. Flitwick, Hermione Granger, 2
+Prof. Flitwick, Rubeus Hagrid, 1
+Prof. Flitwick, Draco Malfoy, 2
+Prof. Flitwick, Prof. Snape, 3
+Oliver Wood, Ron Weasley, 4
+Oliver Wood, Minerva McGonagoll , 7
+Oliver Wood, Alicia Spinnet, 1
+Oliver Wood, Katie Bell, 1
+Oliver Wood, Harry Potter, 36
+Oliver Wood, Dudley Dursley, 1
+Oliver Wood, Angelina Johnson, 4
+Oliver Wood, Lee Jordan, 1
+Oliver Wood, Fred Weasley, 3
+Oliver Wood, George Weasley, 3
+Oliver Wood, filius, 3
+Oliver Wood, Hermione Granger, 1
+Oliver Wood, Piers Polkiss, 1
+Oliver Wood, Prof. Snape, 1
+Oliver Wood, Charlie Weasley, 3
+Angelina Johnson, Harry Potter, 1
+Angelina Johnson, Fred Weasley, 1
+Angelina Johnson, Miles Bletchley, 1
+Angelina Johnson, Oliver Wood, 2
+Marcus Flint, Ron Weasley, 2
+Marcus Flint, Alicia Spinnet, 1
+Marcus Flint, Katie Bell, 2
+Marcus Flint, Harry Potter, 7
+Marcus Flint, Dean Thomas, 1
+Marcus Flint, Seamus Finnigan, 1
+Marcus Flint, Angelina Johnson, 1
+Marcus Flint, Lee Jordan, 4
+Marcus Flint, Adrian Pucey, 1
+Marcus Flint, Madame Hooch, 1
+Marcus Flint, Hermione Granger, 1
+Marcus Flint, Rubeus Hagrid, 2
+Alicia Spinnet, Minerva McGonagoll , 1
+Alicia Spinnet, Marcus Flint, 1
+Alicia Spinnet, Katie Bell, 1
+Alicia Spinnet, Angelina Johnson, 1
+Alicia Spinnet, Lee Jordan, 1
+Alicia Spinnet, Oliver Wood, 1
+Katie Bell, Alicia Spinnet, 1
+Katie Bell, Marcus Flint, 2
+Katie Bell, Lee Jordan, 1
+Katie Bell, Adrian Pucey, 1
+Katie Bell, Oliver Wood, 1
+Katie Bell, Hermione Granger, 1
+Katie Bell, Rubeus Hagrid, 1
+Miles Bletchley, Angelina Johnson, 1
+Adrian Pucey, Marcus Flint, 1
+Adrian Pucey, Katie Bell, 1
+Adrian Pucey, Lee Jordan, 1
+Irma Pince, Ron Weasley, 2
+Irma Pince, Harry Potter, 2
+Irma Pince, Nicolas Flamel, 1
+Irma Pince, Hermione Granger, 2
+Perenelle Flamel, Ron Weasley, 1
+Perenelle Flamel, Harry Potter, 1
+Perenelle Flamel, Nicolas Flamel, 1
+Perenelle Flamel, Hermione Granger, 1
+Ronan, Firenze, 2
+Ronan, Bane, 6
+Ronan, Harry Potter, 5
+Ronan, Hermione Granger, 5
+Ronan, Rubeus Hagrid, 12
+Bane, Ron Weasley, 8
+Bane, Harry Potter, 6
+Bane, Prof. Dumbledore, 1
+Bane, Ronan, 8
+Bane, Lord Voldemort, 2
+Bane, Hermione Granger, 2
+Bane, Rubeus Hagrid, 3
+Firenze, Ron Weasley, 2
+Firenze, Bane, 9
+Firenze, Harry Potter, 12
+Firenze, Prof. Dumbledore, 1
+Firenze, Ronan, 2
+Firenze, Lord Voldemort, 2
+Firenze, Rubeus Hagrid, 2
